@@ -1,0 +1,7 @@
+/node_modules/
+/package-lock.json
+uploads
+__pycache__/
+*bundle.js
+.vscode/
+.env
